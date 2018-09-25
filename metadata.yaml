@@ -1,11 +1,16 @@
 _repo: The-Mystery-of-Seal-Islands-Airplane-Girls-3_57224
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57224-h/images/cover2.jpg
 creator:
   author:
     agent_name: Bardwell, Harrison
     gutenberg_agent_id: '49260'
     url: http://www.gutenberg.org/2009/agents/49260
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57224#The-Mystery-of-Seal-Islands-Airplane-Girls-3
 gutenberg_issued: '2018-05-28'
 gutenberg_type: Text
 identifiers:
